@@ -15,11 +15,11 @@ MNEMET aims to bring together researchers from three Italian universities. The r
 
 ## University of Milan
 
-* [Luca Rossini](https://rossiniluca.github.io/web/) is a tenure-track Assistant professor of Statistics at the University of Milan and a Researcher at Fondazione Eni Enrico Mattei. His research interests span Bayesian inference; time series analysis and forecasting techniques; energy economics and novel nonlinear models. He has published in different peer-reviewed journals such as the Journal of Business and Economic Statistics; Journal of Econometrics; International Journal of Forecasting and Annals of Applied Statistics.
+* [Luca Rossini](https://rossiniluca.github.io/web/) is a tenure-track Assistant professor of Statistics at the University of Milan and a Researcher at Fondazione Eni Enrico Mattei. His research interests span Bayesian inference; time series analysis and forecasting techniques; energy economics and novel nonlinear models. He has published in leading peer-reviewed journals such as the Journal of Business and Economic Statistics; Journal of Econometrics; International Journal of Forecasting and Annals of Applied Statistics.
 
-* Giancarlo Manzi
+* [Andrea Bastianin](https://sites.google.com/view/andrea-bastianin) is an Associate professor of Economic Policy at the University of Milan and Senior Researcher at Fondazione Eni Enrico Mattei. His research interests are Time Series Econometrics, Environmental and Energy Economics, Forecasting techniques and Critical raw materials. He has published in peer-reviewed journals such as Energy Economics; Macroeconomic Dynamics; Energy Policy and Economic Modelling.
 
-* Andrea Bastianin
+* [Giancarlo Manzi]() is an Associate professor of Statistics at University of Milan. 
 
   
 ## Free University of Bozen-Bolzano:
