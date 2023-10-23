@@ -7,12 +7,12 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mnemet"
+title                    : "MNEMET"
 title_separator          : "-"
-name                     : &name "Mnemet"
+name                     : &name "MNEMET"
 description              : &description "Homepage"
 url                      : https://rossiniluca.github.io/Mnemet/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rossiniluca.github.io/Mnemet"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : 
+  name             : MNEMET
   avatar           : 
-  bio              : 
-  location         : 
-  employer         :
+  bio              : MNEMET
+  location         : MNEMET
+  employer         : MNEMET
   pubmed           : 
   googlescholar    : 
   email            :
