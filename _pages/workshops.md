@@ -5,8 +5,5 @@ permalink: /workshops/
 author_profile: true
 ---
 
-Workshop and Conferences:
-=====
-
 *
 *
