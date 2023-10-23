@@ -9,9 +9,11 @@ MNEMET aims to bring together researchers from three Italian universities. The r
 
 ## University of Trieste:
 
-* Roberta Pappadà
+* [Roberta Pappadà](https://deams.units.it/it/dipartimento/persone/personale-docente?q=it/node/17847) is an Associate professor of Statistics at the University of Trieste and she is the Principal Investigator of MNEMET. Her research interests lie in Copula-based modelling, Computational Statistics, Classification and clustering, Time series clustering, Machine learning algorithms, Discrimination detection, and Ensemble methods in unsupervised problems. She has published in leading peer-reviewed journals such as Statistics and Computing; Spatial Statistics; Fuzzy Sets and Systems.
+  
+* [Gaetano Carmeci](https://www.units.it/persone/index.php/from/abook/persona/4715) is an Associate professor of Econometrics at the University of Trieste. His research interests are in Bayesian and spatial econometrics; panel cointegration and forecasting of electricity prices. He has published in several journals such as the Journal of Macroeconomics, Journal of Risk and Insurance, Journal of Policy Modeling and Journal of Public Economic Theory.
 
-* 
+* [Giovanni Millo]()
 
 ## University of Milan
 
@@ -19,7 +21,7 @@ MNEMET aims to bring together researchers from three Italian universities. The r
 
 * [Andrea Bastianin](https://sites.google.com/view/andrea-bastianin) is an Associate professor of Economic Policy at the University of Milan and Senior Researcher at Fondazione Eni Enrico Mattei. His research interests are Time Series Econometrics, Environmental and Energy Economics, Forecasting techniques and Critical raw materials. He has published in peer-reviewed journals such as Energy Economics; Macroeconomic Dynamics; Energy Policy and Economic Modelling.
 
-* [Giancarlo Manzi]() is an Associate professor of Statistics at University of Milan. 
+* [Giancarlo Manzi](https://www.unimi.it/it/ugov/person/giancarlo-manzi) is an Associate professor of Statistics at the University of Milan. He has published in different journals such as Regional Studies, PLOS ONE, Quality & Quantity, Journal of the Royal Statistical Society: Series A.
 
   
 ## Free University of Bozen-Bolzano:
