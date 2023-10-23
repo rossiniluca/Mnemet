@@ -13,8 +13,8 @@ MNEMET aims to bring together researchers from three Italian universities. The r
   
 * [Gaetano Carmeci](https://www.units.it/persone/index.php/from/abook/persona/4715) is an Associate professor of Econometrics at the University of Trieste. His research interests are in Bayesian and spatial econometrics; panel cointegration and forecasting of electricity prices. He has published in several journals such as the Journal of Macroeconomics, Journal of Risk and Insurance, Journal of Policy Modeling and Journal of Public Economic Theory.
 
-* [Giovanni Millo]()
-
+* [Giovanni Millo](https://deams.units.it/it/dipartimento/persone/personale-docente?q=it/node/20120) is a tenure-track Assistant professor of Business Statistics at the University of Trieste and previously Researcher at the Research Department of Assicurazioni Generali. His research interests are Panel Data Econometrics; Spatial Econometrics; Computational Econometrics and Statistics; and Insurance Economics. He has published in peer-reviewed journals such as the Journal of Applied Econometrics, Journal of Statistical Software, Journal of Spatial Econometrics and Journal of Risk and Insurance.
+  
 ## University of Milan
 
 * [Luca Rossini](https://rossiniluca.github.io/web/) is a tenure-track Assistant professor of Statistics at the University of Milan and a Researcher at Fondazione Eni Enrico Mattei. His research interests span Bayesian inference; time series analysis and forecasting techniques; energy economics and novel nonlinear models. He has published in leading peer-reviewed journals such as the Journal of Business and Economic Statistics; Journal of Econometrics; International Journal of Forecasting and Annals of Applied Statistics.
