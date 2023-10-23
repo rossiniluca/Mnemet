@@ -5,9 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-Publications in peer-reviewed journals:
-======
-
 *
 
 
