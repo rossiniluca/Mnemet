@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-MNEMET is the acronym for [*“Modelling Non-standard data and Extremes in Multivariate Environmental Time series (MNEMET)”*](grant 20223CEZSR) funded by the Italian Ministry of University and Research under the PRIN.
+MNEMET is the acronym for *“Modelling Non-standard data and Extremes in Multivariate Environmental Time series (MNEMET)”*(grant 20223CEZSR) funded by the Italian Ministry of University and Research under the PRIN.
 
 MNEMET brings together researchers from
 * University of Trieste (PI: [Roberta Pappadà](https://deams.units.it/it/dipartimento/persone/personale-docente))
