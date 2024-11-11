@@ -7,12 +7,12 @@ author_profile: true
 
 Journal Publications:
 ======
-* Di Lascio, F.M.L., Noy, I., & Perazzini, S. (2024). ["Modeling spatial correlation between earthquake insured losses in New Zealand: A mixed-effects analysis"](https://onlinelibrary.wiley.com/doi/10.1111/risa.16638?af=R). _Risk Analysis_, 1-12.
+* Di Lascio, F.M.L., Noy, I., and Perazzini, S. (2024). ["Modeling spatial correlation between earthquake insured losses in New Zealand: A mixed-effects analysis"](https://onlinelibrary.wiley.com/doi/10.1111/risa.16638?af=R). _Risk Analysis_, 1-12.
 
 
 Book Publications:
 ======
-* Di Lascio, F.M.L., Pappadà, R. (2024). [“Hierarchical Clustering and CoClust Algorithm: A Nested Procedure to Analyse Sustainable Heating Data”](https://link.springer.com/chapter/10.1007/978-3-031-65993-5_10=), In Ansari, J., et al., Combining, Modelling and Analyzing Imprecision, Randomness and Dependence. SMPS 2024. Advances in Intelligent Systems and Computing, vol. 1458, p. 85-92. Springer, Cham. ISBN: 978-3-031-65992-8.
+* Di Lascio, F.M.L. and Pappadà, R. (2024). [“Hierarchical Clustering and CoClust Algorithm: A Nested Procedure to Analyse Sustainable Heating Data”](https://link.springer.com/chapter/10.1007/978-3-031-65993-5_10=), In Ansari, J., et al., Combining, Modelling and Analyzing Imprecision, Randomness and Dependence. SMPS 2024. Advances in Intelligent Systems and Computing, vol. 1458, p. 85-92. Springer, Cham. ISBN: 978-3-031-65992-8.
 
 Working papers:
 ======
