@@ -7,9 +7,9 @@ author_profile: true
 
 Journal Publications:
 ======
-* Di Lascio, F.M.L., Noy, I., and Perazzini, S. (2024). ["Modeling spatial correlation between earthquake insured losses in New Zealand: A mixed-effects analysis"](https://onlinelibrary.wiley.com/doi/10.1111/risa.16638?af=R). _Risk Analysis_, 1-12.
-
 * Benevento, A., Durante, F., and Pappadà, R. (2024).["Tail-dependence clustering of time series with spatial constraints"](https://link.springer.com/article/10.1007/s10651-024-00626-6). _Environmental and Ecological Statistics_ 31, 801–817.
+
+* Di Lascio, F.M.L., Noy, I., and Perazzini, S. (2024). ["Modeling spatial correlation between earthquake insured losses in New Zealand: A mixed-effects analysis"](https://onlinelibrary.wiley.com/doi/10.1111/risa.16638?af=R). _Risk Analysis_, 1-12.
 
 Book Publications:
 ======
