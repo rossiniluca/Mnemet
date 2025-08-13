@@ -11,7 +11,7 @@ Journal Publications:
 
 * Di Lascio, F.M.L., Noy, I., and Perazzini, S. (2025). ["Modeling spatial correlation between earthquake insured losses in New Zealand: A mixed-effects analysis"](https://onlinelibrary.wiley.com/doi/10.1111/risa.16638?af=R). _Risk Analysis_, 45:2, 387 - 398.
 
-* Durante, F., Fuchs, S. and Pappadà, R. (2025). [Clustering of compound events based on multivariate comonotonicity](https://www.sciencedirect.com/science/article/pii/S221167532500003X). _Spatial Statistics_, 66, 100881.
+* Durante, F., Fuchs, S. and Pappadà, R. (2025). ["Clustering of compound events based on multivariate comonotonicity"](https://www.sciencedirect.com/science/article/pii/S221167532500003X). _Spatial Statistics_, 66, 100881.
 
 * Ravazzolo, F. and Rossini, L. (2025) - ["Is the Price Cap for Gas Useful? Evidence from European Countries"](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-19/issue-2/Is-the-price-cap-for-gas-useful-Evidence-from-European/10.1214/25-AOAS2016.short). _Annals of Applied Statistics_, 19:2, 1065 - 1085
 
@@ -22,7 +22,15 @@ Book Publications:
 
 * Durante, F. and Pappadà, R. (2024). ["Dissimilarity-Based Clustering with Soft Proximity Constraints"](https://link.springer.com/chapter/10.1007/978-3-031-65993-5_14). In: Ansari, J., et al. Combining, Modelling and Analyzing Imprecision, Randomness and Dependence. Advances in Intelligent Systems and Computing, vol 1458. Springer, Cham. ISBN: 978-3-031-65992-8.
 
+* Gioia, V. and Pappadà, R. (2025). ["Joint Modelling of Particulates: An Application to Urban Areas in Friuli Venezia Giulia, Italy"](https://link.springer.com/chapter/10.1007/978-3-031-95995-0_54). In: di Bella, E., et al. Statistics for Innovation III. SIS 2025. Italian Statistical Society Series on Advances in Statistics. Springer, Cham. ISBN: 978-3-031-95995-0.
+ 
+* Benevento, A., Durante, F. and Pappadà R. (2025). ["Semi-supervised time-series clustering using Gaussian copulas"]. In Book of Proceedings: Statistical Methods for Data Analysis and Decision Sciences (SDS 2025), Springer Nature Switzerland
+
 Working papers:
 ======
+* Benevento, A., Durante, F. and Pappadà R. (2025). ["Comonotonic-based Time Series Clustering with constraints: a review and a conceptual framework"] (Under Review)
+
+* Ravazzolo, F., Rossini, L. and Viselli, A. (2025) - ["Modeling European Electricity Market Integration during turbulent times"](https://arxiv.org/abs/2506.23289). _arXiv:2506.23289_ (Submitted)
+
 
 
