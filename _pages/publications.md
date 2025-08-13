@@ -24,11 +24,11 @@ Book Publications:
 
 * Gioia, V. and Pappadà, R. (2025). ["Joint Modelling of Particulates: An Application to Urban Areas in Friuli Venezia Giulia, Italy"](https://link.springer.com/chapter/10.1007/978-3-031-95995-0_54). In: di Bella, E., et al. Statistics for Innovation III. SIS 2025. Italian Statistical Society Series on Advances in Statistics. Springer, Cham. ISBN: 978-3-031-95995-0.
  
-* Benevento, A., Durante, F. and Pappadà R. (2025). ["Semi-supervised time-series clustering using Gaussian copulas"]. In Book of Proceedings: Statistical Methods for Data Analysis and Decision Sciences (SDS 2025), Springer Nature Switzerland
+* Benevento, A., Durante, F. and Pappadà R. (2025). ["Semi-supervised time-series clustering using Gaussian copulas"](). In Book of Proceedings: Statistical Methods for Data Analysis and Decision Sciences (SDS 2025), Springer Nature Switzerland
 
 Working papers:
 ======
-* Benevento, A., Durante, F. and Pappadà R. (2025). ["Comonotonic-based Time Series Clustering with constraints: a review and a conceptual framework"] (Under Review)
+* Benevento, A., Durante, F. and Pappadà R. (2025). ["Comonotonic-based Time Series Clustering with constraints: a review and a conceptual framework"]() (Under Review)
 
 * Ravazzolo, F., Rossini, L. and Viselli, A. (2025) - ["Modeling European Electricity Market Integration during turbulent times"](https://arxiv.org/abs/2506.23289). _arXiv:2506.23289_ (Submitted)
 
